@@ -1,0 +1,7 @@
+{
+  "name": "eslint-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "eslint --fix ejercicio-textos.js"
+  }
+}
